@@ -1,0 +1,23 @@
+# Dashboard Overview
+This interactive dashboard provides a comprehensive view of key business metrics, enabling stakeholders to monitor performance and make data-driven decisions. It highlights important KPIs, trends, and category-wise analysis through intuitive visualizations.
+
+## Key Insights
+
+* Tracked overall business performance using essential KPIs.
+* Identified top-performing categories and products.
+* Analyzed sales trends over Various Category.
+* Compared performance across different customer age segment.
+* Enabled quick identification of growth opportunities through interactive filters.
+
+## Tools Used
+
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Pandas
+* Sql
+
+## Outcome
+
+Developed an interactive dashboard that transforms raw data into actionable business insights, supporting faster and more informed decision-making.
